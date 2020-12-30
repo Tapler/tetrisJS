@@ -1,0 +1,36 @@
+body {
+    background: radial-gradient(
+            circle,
+            rgba(175, 196, 174, 1) 0%,
+            rgba(104, 204, 191, 1) 89%,
+            rgba(94, 191, 178, 1) 100%
+    );
+}
+
+#game_box {
+    width: 300px;
+    padding: 0px 0px;
+    margin: 0px 0px 0px auto;
+    float: left;
+}
+
+h2 {
+    text-align: center;
+    padding: 0px 0px 10px 0px;
+    margin: 0px;
+}
+
+#instructions {
+    float: right;
+    width: 300px;
+    margin: 0px auto 0px 0px;
+}
+
+#screen {
+    width: 700px;
+    margin: 0px auto;
+}
+
+#tetris {
+    border: 5px solid #974603;
+}
